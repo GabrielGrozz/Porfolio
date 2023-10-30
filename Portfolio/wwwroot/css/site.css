@@ -21,16 +21,20 @@ body {
   margin-bottom: 60px;
 }
 
-.photo {
-    border-radius: 50%;
+.personal-informations{
+    margin: 19vh 0
 }
+
+.name {
+    font-size: 5em
+}
+
 
 .projects {
     background: purple;
 }
 
 .carrousel {
-    width: 6
-    0%;
+    width: 60%;
 }
 
