@@ -44,9 +44,17 @@ body {
     padding: 0 10%
 }
 
-.tecnologie-image {
+.teconologie{
+    grid-row-gap: 30px
+}
+
+.tecnologie-image-container {
     border-radius: 50%;
     width: 150px
+}
+.tecnologie-image {
+    width: 150px;
+    height: 150px;
 }
 
 .projects-container{

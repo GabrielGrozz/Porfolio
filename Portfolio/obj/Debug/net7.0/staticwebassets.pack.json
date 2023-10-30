@@ -13,8 +13,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Usuário\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\wwwroot\\images\\photo.jpg",
-      "PackagePath": "staticwebassets\\images\\photo.jpg"
+      "Id": "C:\\Users\\Usuário\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\wwwroot\\images\\c-sharp.jpg",
+      "PackagePath": "staticwebassets\\images\\c-sharp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usuário\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\wwwroot\\images\\logo-css-3.png",
+      "PackagePath": "staticwebassets\\images\\logo-css-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Usuário\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\wwwroot\\images\\logo-html-5.png",
+      "PackagePath": "staticwebassets\\images\\logo-html-5.png"
     },
     {
       "Id": "C:\\Users\\Usuário\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\wwwroot\\js\\site.js",
