@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 html {
   font-size: 14px;
 }
@@ -21,14 +26,32 @@ body {
   margin-bottom: 60px;
 }
 
-.personal-informations{
-    margin: 19vh 0
+
+.personal-informations {
+    padding: 19vh 10% 2% 10%;
+    background: #F8F8F8;
 }
 
 .name {
     font-size: 5em
 }
 
+.experience-container{
+    padding: 0 10%
+}
+
+.tecnologies-container{
+    padding: 0 10%
+}
+
+.tecnologie-image {
+    border-radius: 50%;
+    width: 150px
+}
+
+.projects-container{
+    padding: 0 10%;
+}
 
 .projects {
     background: purple;
