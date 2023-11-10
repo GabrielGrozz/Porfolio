@@ -30,7 +30,6 @@ body {
     margin-right: 10vw;
 }
 
-
 .personal-informations {
     padding: 19vh 10% 2% 10%;
     background: #F8F8F8;
@@ -40,7 +39,7 @@ body {
     font-size: 5em
 }
 
-.experience-container, .tecnologies-container, .projects-container, .contacts {
+.experience-container, .tecnologies-container, .projects-container, .contacts-container {
     padding: 0 10%
 }
 
